@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "name": "Charmander",
+      "price": "10",
+      "description": "kkkkkkkk",
+      "photo_url": [
+        "https://picsum.photos/200"
+      ],
+      "id": "1299"
+    }
+  ]
+}
