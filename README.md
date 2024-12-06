@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 # AS_DAOC
 
 OBS:
-open the project terminal and type __**npm install**_ to download the dependencies
+open the project terminal and type _**npm install**_ to download the dependencies
